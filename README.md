@@ -88,11 +88,15 @@ de_junior_task/
 
 ## 📬 Контакты
 
-**📧 Email:** [yakoale167@yandex.ru](mailto:yakoale167@yandex.ru)
+**Email:** [yakoale167@yandex.ru](mailto:yakoale167@yandex.ru)
 
-**📱 Телефон:** [+7 (929) 675-83-01](tel:+79296758301)
+**Телефон:** [+7 (929) 675-83-01](tel:+79296758301)
 
-**💬 Telegram:** [@yakoale](https://t.me/yakoale)
+**Telegram:** [@yakoale](https://t.me/yakoale)
+
+---
+
+*Свяжитесь со мной любым удобным способом*
 
 ---
 
