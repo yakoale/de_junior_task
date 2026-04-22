@@ -1,1 +1,90 @@
-# de_junior_task
+# 🚗 Проект "Моя машина Renault"
+
+> 🛠️ Ваш личный помощник в диагностике, обслуживании и ремонте автомобилей Renault в России
+
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/yakoale/de_junior_task)
+[![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+
+## 📋 О проекте
+
+**Проект "Моя машина Renault"** — это комплексное решение для всех владельцев автомобилей Renault в России. 
+
+Данный проект предоставляет возможности по самостоятельной диагностике, обслуживанию и поиску запчастей для автомобилей Renault.
+
+Проект позволяет:
+- 🔍 Проводить самостоятельную диагностику автомобиля
+- 🔧 Выполнять обслуживание без обращения в сервисные центры
+- 🛒 Находить оригинальные запчасти и качественные аналоги
+
+> 💡 Проект особенно актуален в условиях ограниченного доступа к официальным сервисным центрам Renault в России.
+
+## ✨ Ключевые возможности
+
+### 🔥 Диагностика
+Проверка внутренних блоков автомобиля с помощью смартфона или ноутбука. Чтение ошибок, мониторинг параметров в реальном времени.
+
+### 💡 Каталог запчастей
+- Полный каталог оригинальных запчастей для всех моделей Renault
+- База проверенных аналогов с указанием совместимости
+- Актуальные цены от поставщиков в РФ
+
+### 🎨 Интерактивные руководства
+Пошаговые инструкции по ремонту с фотографиями и видеовставками для популярных моделей:
+- Renault Logan / Sandero
+- Renault Duster
+- Renault Megane
+- Renault Kaptur
+
+## 🛠️ Технологический стек
+
+| Компонент | Технология | Назначение |
+|-----------|------------|------------|
+| Языки программирования | Python, JavaScript | Бэкенд и фронтенд |
+| Диагностика | PyClip | Работа с OBD-II адаптерами |
+| Чип-тюнинг | EcuTweaker | Настройка ЭБУ |
+| Официальная диагностика | Dialogis | Поддержка протоколов Renault |
+
+## 📦 Установка и запуск
+
+```bash
+# Клонирование репозитория
+git clone https://github.com/yakoale/de_junior_task.git
+cd de_junior_task
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Настройка окружения
+cp .env.example .env
+
+# Запуск приложения
+python main.py
+# или для веб-интерфейса:
+npm start
+
+🚀 Планы по развитию
+Добавить поддержку Bluetooth OBD-адаптеров
+Создать мобильное приложение для iOS/Android
+Расширить базу запчастей на 10 000+ позиций
+Добавить форум для обмена опытом между владельцами
+
+📁 Структура проекта
+de_junior_task/
+├── src/
+│   ├── diagnostics/   # Модуль диагностики (PyClip)
+│   ├── catalog/       # Каталог запчастей
+│   └── guides/        # Интерактивные руководства
+├── tests/             # Тесты
+├── requirements.txt   # Зависимости Python
+├── .env.example       # Пример конфигурации
+└── README.md          # Документация
+
+🤝 Вклад в проект
+Буду рад любой помощи в развитии проекта! Вы можете:
+🐛 Сообщать об ошибках через Issues
+💡 Предлагать новые функции
+📝 Дополнять базу запчастей и руководства
+
+📬 Контакты
+<p align="center"> <a href="mailto:yakoale167@yandex.ru"> <img src="https://img.shields.io/badge/Email-yakoale167%40yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp;&nbsp;&nbsp; <a href="tel:+79296758301"> <img src="https://img.shields.io/badge/Phone-%2B7(929)675--83--01-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://t.me/yakoale"> <img src="https://img.shields.io/badge/Telegram-@yakoale-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p><p align="center"> <b>📧</b> yakoale167@yandex.ru &nbsp;&nbsp;|&nbsp;&nbsp; <b>📱</b> +7 (929) 675-83-01 &nbsp;&nbsp;|&nbsp;&nbsp; <b>💬</b> @yakoale </p>
