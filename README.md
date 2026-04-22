@@ -89,7 +89,9 @@ de_junior_task/
 ## 📬 Контакты
 
 [![Email](https://img.shields.io/badge/Email-yakoale167%40yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yakoale167@yandex.ru)
+
 [![Phone](https://img.shields.io/badge/Phone-%2B7(929)675--83--01-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79296758301)
+
 [![Telegram](https://img.shields.io/badge/Telegram-@yakoale-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yakoale)
 
 **📧** yakoale167@yandex.ru | **📱** +7 (929) 675-83-01 | **💬** [@yakoale](https://t.me/yakoale)
